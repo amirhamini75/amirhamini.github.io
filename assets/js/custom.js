@@ -1,1 +1,0 @@
-jQuery(function($){new WOW().init();$(window).load(function(){setTimeout(function(){$('#loading').fadeOut('slow',function(){});},3000);});});
